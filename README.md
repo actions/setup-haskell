@@ -4,8 +4,10 @@
 repository is here and you can use it as an example, or in Actions. However please be aware that 
 we are not going to  be updating issues or pull requests on this repository.
 
-You could also fork this code and maintain it, if you do please publish it to the Marketplace and 
-we'll try to link to it.
+**Maintained forks:**
+* [haskell-ci/setup](https://github.com/haskell-ci/setup)
+
+You could also fork this code and maintain it, if you do please let us know.
 
 To reflect this state we’ve marked this repository as Archived.
 

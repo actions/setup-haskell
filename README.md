@@ -5,7 +5,7 @@ repository is here and you can use it as an example, or in Actions. However plea
 we are not going to  be updating issues or pull requests on this repository.
 
 **Maintained forks:**
-* [haskell-ci/setup](https://github.com/haskell-ci/setup)
+* [haskell/actions](https://github.com/haskell/actions)
 
 You could also fork this code and maintain it, if you do please let us know.
 
